@@ -1,0 +1,101 @@
+html {
+  --color-yellow: #f9e7ba;
+  --color-brown: #281514;
+  --color-gold: #cd9341;
+  --color-white: #fff;
+  --color-black: #000;
+
+  --mobile: 600px;
+}
+
+body {
+  margin: 0;
+  background: var(--color-white);
+  color: var(--color-black);
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  background-color: var(--color);
+}
+
+header a {
+  text-decoration: none;
+}
+
+header ul {
+  display: flex;
+}
+
+header li {
+  padding-left: 1rem;
+}
+
+a {
+  color: var(--color-gold);
+}
+
+section {
+  padding: 1rem 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+footer {
+  margin-top: 3rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: var(--color-brown);
+  color: var(--color-gold);
+  font-size: 2rem;
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navigation ul {
+  list-style: none;;
+}
+
+.section-intro {
+  padding: 2rem 0;
+  text-align: center;
+  color: white;
+  background-image: url(images/school.png);
+  background-size: cover;
+  background-color: var(--color-gold);
+  background-blend-mode: multiply;
+}
+
+.mentor {
+  margin-top: 3rem;
+}
+
+@media only screen and (min-width: 600px) {
+  .mentor {
+    display: flex;
+    align-items: flex-start;
+  }
+}
+
+.mentor__image {
+  border-radius: 50%;
+  max-width: 200px;
+  margin-right: 2rem;
+  border: 15px solid var(--color-yellow);
+}
