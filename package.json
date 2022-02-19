@@ -1,0 +1,24 @@
+{
+  "name": "freilernwerk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run serve",
+    "serve": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingvoo/freilernwerk.git"
+  },
+  "author": "ingvoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ingvoo/freilernwerk/issues"
+  },
+  "homepage": "https://github.com/ingvoo/freilernwerk#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
