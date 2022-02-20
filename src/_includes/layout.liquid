@@ -23,7 +23,11 @@
           </ul>
         </nav>
     </header>
-    <main>{{ content}}</main>
+    <main>
+      {% if container == true %}<div class="container">{% endif %}
+        {{ content}}
+      {% if container == true %}</div>{% endif %}
+    </main>
   </div>
   <footer>
     <div class="container"><p>Wir freuen uns auf euch und auf ein neues WIR!</p></div>

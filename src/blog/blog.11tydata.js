@@ -1,6 +1,7 @@
 module.exports = async () => {
   return {
     layout: 'layout.liquid',
-    tags: 'blog'
+    tags: 'blog',
+    container: true
   };
 };
