@@ -1,6 +1,10 @@
 ---
 title: Welcome to the Blog
 layout: layout.liquid
+pagination:
+  data: collections.angebot
+  size: 10
+  alias: angebot
 ---
 
 <section class="section-intro">
@@ -20,11 +24,24 @@ layout: layout.liquid
   </section>
       
 <section class="container">
-<h2>freilernwerk</h2>
+  <h2>freilernwerk</h2>
   <p>Das freilernwerk ergänzt deinen Weg der selbstgestalteten Bildung zu Hause. Es ist ein Treffpunkt für Freilernende, die sich mit Gleichgesinnten vernetzen und gemeinsam Projekte verwirklichen wollen und die Verantwortung für ihr Lernen selbst übernehmen.
     Du bringst Offenheit für Gemeinschaft, deine Ziele sowie die dazu benötigten Materialien mit. Du führst ein Portfolio, in welchem du dein Wirken dokumentierst. Gerne unterstützen wir dich auf deinem Weg.
     Wir pflegen den Kontakt mit den Familien und sind mit andern bestehenden alternativen Bildungsprojekten und Betrieben vernetzt. Wir sind ein Pionierprojekt. Es darf sich mit uns allen entwickeln.</p>
 </section>
+
+<div class="container">
+  <h2>Angeboten</h2>
+  <ul>
+    {% for a in angebot %}
+    <li>
+      <a href="{{a.url}}">
+        {{ a.data.title }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
     
 <section class="container">
   <article class="mentor">
