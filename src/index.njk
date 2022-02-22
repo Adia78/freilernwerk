@@ -30,22 +30,28 @@ pagination:
     Wir pflegen den Kontakt mit den Familien und sind mit andern bestehenden alternativen Bildungsprojekten und Betrieben vernetzt. Wir sind ein Pionierprojekt. Es darf sich mit uns allen entwickeln.</p>
 </section>
 
-<div class="container">
-  <h2>Angeboten</h2>
-  <ul>
-    {% for a in angebot %}
-    <li>
-      <a href="{{a.url}}">
-        {{ a.data.title }}
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
+<section class="section section--large section--soft">
+  <div class="container">
+    <h2>Angeboten</h2>
+  </div>
+  <div class="container container--large">
+    <div class="grid-columns-three">
+      {% for a in angebot %}
+      <article>
+        <img class="teaser__image" src="assets/images/{{ a.data.cover }}" alt="">
+        <h2>{{ a.data.title }}</h2>
+        <p>{{ a.data.summary }}</p>
+        <a href="{{a.url}}">Mehr Details</a>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
     
 <section class="container">
+  <h2>Team</h2>
   <article class="mentor">
-    <img class="mentor__image" src="images/severin.png" alt="Severin schaut in der Kamera">
+    <img class="mentor__image" src="assets/images/severin.png" alt="Severin schaut in der Kamera">
     <div>
       <h2>Severin Erni</h2>
       <p>lic.phil.nat Geograf und Lehrer (Patent 1.-9. Schuljahr)
@@ -53,7 +59,7 @@ pagination:
     </div>
   </article>
   <article class="mentor">
-    <img class="mentor__image" src="images/adrian.png" alt="Adrian schaut in der Kamera">
+    <img class="mentor__image" src="assets/images/adrian.png" alt="Adrian schaut in der Kamera">
     <div>
       <h2>Adrian Theilkaes</h2>
       <p>Real-, Sek- und Berufsschullehrer Natur- und Wildnispädagoge i.A. 20 Jahre Unterrichtstätigkeit auf diversen Stufen
