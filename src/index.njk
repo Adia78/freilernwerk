@@ -9,75 +9,208 @@ pagination:
 
 <section class="section-intro">
   <div class="container">
-    <h2>für Jugendliche ab 12 Jahren
-      Start ab August 2021 in der Region Bern
-      1 oder 2 Tage / Woche NEU: Infoabend am 12. August</h2>
+    <h2>
+      für Jugendliche ab 12 Jahren Start ab August 2021 in der Region Bern 1
+      oder 2 Tage / Woche NEU: Infoabend am 12. August
+    </h2>
   </div>
 </section>
 
 <section class="container">
   <h2>wer bist du?</h2>
-  <p>Mit deiner Familie hast du dich entschieden, einen selbstbestimmten Weg in der Bildung zu gehen. Gerne könnt ihr mit uns in Verbindung treten und wir unterstützen euch dabei, weitere Schritte zu planen.
-    Oder du bist bereits freilernend, homeschoolend unterwegs
-    Du gestaltest deine Berufsausbildung oder dein Orientierungsjahr selber
-    Du bereitest dich selbständig auf Abschluss- oder Aufnahmeprüfungen vor</p>
-  </section>
-      
+  <p>
+    Mit deiner Familie hast du dich entschieden, einen selbstbestimmten Weg in
+    der Bildung zu gehen. Gerne könnt ihr mit uns in Verbindung treten und wir
+    unterstützen euch dabei, weitere Schritte zu planen. Oder du bist bereits
+    freilernend, homeschoolend unterwegs Du gestaltest deine Berufsausbildung
+    oder dein Orientierungsjahr selber Du bereitest dich selbständig auf
+    Abschluss- oder Aufnahmeprüfungen vor
+  </p>
+</section>
+
 <section class="container">
   <h2>freilernwerk</h2>
-  <p>Das freilernwerk ergänzt deinen Weg der selbstgestalteten Bildung zu Hause. Es ist ein Treffpunkt für Freilernende, die sich mit Gleichgesinnten vernetzen und gemeinsam Projekte verwirklichen wollen und die Verantwortung für ihr Lernen selbst übernehmen.
-    Du bringst Offenheit für Gemeinschaft, deine Ziele sowie die dazu benötigten Materialien mit. Du führst ein Portfolio, in welchem du dein Wirken dokumentierst. Gerne unterstützen wir dich auf deinem Weg.
-    Wir pflegen den Kontakt mit den Familien und sind mit andern bestehenden alternativen Bildungsprojekten und Betrieben vernetzt. Wir sind ein Pionierprojekt. Es darf sich mit uns allen entwickeln.</p>
+  <p>
+    Das freilernwerk ergänzt deinen Weg der selbstgestalteten Bildung zu Hause.
+    Es ist ein Treffpunkt für Freilernende, die sich mit Gleichgesinnten
+    vernetzen und gemeinsam Projekte verwirklichen wollen und die Verantwortung
+    für ihr Lernen selbst übernehmen. Du bringst Offenheit für Gemeinschaft,
+    deine Ziele sowie die dazu benötigten Materialien mit. Du führst ein
+    Portfolio, in welchem du dein Wirken dokumentierst. Gerne unterstützen wir
+    dich auf deinem Weg. Wir pflegen den Kontakt mit den Familien und sind mit
+    andern bestehenden alternativen Bildungsprojekten und Betrieben vernetzt.
+    Wir sind ein Pionierprojekt. Es darf sich mit uns allen entwickeln.
+  </p>
 </section>
 
 <section class="section section--large section--soft">
-  <div class="container">
-    <h2>Angeboten</h2>
-  </div>
   <div class="container container--large">
+    <h2>Angeboten</h2>
     <div class="grid-columns-three">
       {% for a in angebot %}
       <article>
-        <img class="teaser__image" src="assets/images/{{ a.data.cover }}" alt="">
+        <img
+          class="teaser__image"
+          src="assets/images/{{ a.data.cover }}"
+          alt=""
+        />
         <h2>{{ a.data.title }}</h2>
         <p>{{ a.data.summary }}</p>
-        <a href="{{a.url}}">Mehr Details</a>
+        <a href="{{ a.url }}">Mehr Details</a>
       </article>
       {% endfor %}
     </div>
   </div>
 </section>
-    
+
 <section class="container">
   <h2>Team</h2>
   <article class="mentor">
-    <img class="mentor__image" src="assets/images/severin.png" alt="Severin schaut in der Kamera">
+    <img
+      class="mentor__image"
+      src="assets/images/severin.png"
+      alt="Severin schaut in der Kamera"
+    />
     <div>
       <h2>Severin Erni</h2>
-      <p>lic.phil.nat Geograf und Lehrer (Patent 1.-9. Schuljahr)
-        Vater von drei freilernenden Kindern Begleitung freilernender Familien Freiberufliche Tätigkeit im Naturschutz, als Exkursionsleiter und in der Umweltbildung Musiker in verschiedenen Bands Gemeinschaftsbildung, Initiationsarbeit Reisen</p>
+      <blockquote>
+        Freilernen bedeutet für mich das Lernen, das ich selbst wähle. Es ist
+        der Geist der Neugierde, des Entdeckens und schöpferischen Tuns bis hin
+        zur meisterhaften Vertiefung und Verinnerlichung. Bei jedem Menschen,
+        den ich treffe, in jeder Situation in die ich gelange, stelle ich mir
+        die Frage: Was kann ich lernen? Umgekehrt bedeutet das, dass die Welt
+        auch von mir wissen möchte, was ich bereit bin zu geben, wie ich mit
+        meinem einzigartigen Wesen dienen kann. - In diesem Spirit begleite ich
+        junge Menschen auf ihrem Lebensweg.
+      </blockquote>
+      <ul>
+        <li>lic.phil.nat Geograf und Lehrer</li>
+        <li>(Patent 1.-9. Schuljahr)</li>
+        <li>Vater von drei freilernenden Kindern / Jugendlichen</li>
+        <li>Begleitung freilernender Familien</li>
+        <li>
+          Freiberufliche Tätigkeit im Naturschutz, als Exkursionsleiter und in
+          der Umweltbildung
+        </li>
+        <li>Musiker in verschiedenen Bands</li>
+        <li>Gemeinschaftsbildung, Initiationsarbeit</li>
+        <li>Reisen</li>
+      </ul>
     </div>
   </article>
   <article class="mentor">
-    <img class="mentor__image" src="assets/images/adrian.png" alt="Adrian schaut in der Kamera">
+    <img
+      class="mentor__image"
+      src="assets/images/adrian.png"
+      alt="Adrian schaut in der Kamera"
+    />
     <div>
       <h2>Adrian Theilkaes</h2>
-      <p>Real-, Sek- und Berufsschullehrer Natur- und Wildnispädagoge i.A. 20 Jahre Unterrichtstätigkeit auf diversen Stufen
-        Projektleiter Lernzentrum, Organisator von Klassenlagern und Projektwochen
-        Interessen: Reisen, Naturerlebnisse, Permakultur, gesellschaftliche Themen, Männerinitiation</p>
+      <blockquote>
+        Nach fast 20 Jahren Unterrichtstätigkeit an verschiedenen kantonalen
+        Schulen, brenne ich dafür, die Bildung junger Menschen ganzheitlicher,
+        ergebnisoffener und vor allem individueller und menschlicher zu
+        gestalten. Die Schule der Zukunft soll sich spannenden Phänomenen
+        unserer Lebenswelt ganzheitlich und undogmatisch annähern und versuchen,
+        sie individuell und interessensgeleitet zu erschliessen. Meine Rolle als
+        Mentor möchte ich mit Empathie und mit dem individuell nötigen Mass an
+        Steuerung wahrnehmen, damit ermutigende Lernprozesse und Erfahrungen
+        ermöglicht werden.
+      </blockquote>
+      <ul>
+        <li>Real-, Sek- und Berufsschullehrer</li>
+        <li>Natur- und Wildnispädagoge i.A.</li>
+        <li>
+          20 Jahre Unterrichtstätigkeit auf diversen Stufen Projektleiter
+          Lernzentrum, Organisator von Klassenlagern und Projektwochen
+        </li>
+        <li>
+          Interessen: Reisen, Naturerlebnisse, Permakultur, gesellschaftliche
+          Themen, Männerinitiation
+        </li>
+      </ul>
     </div>
   </article>
-  <p>Das Team von Mentorinnen und Mentoren wird dynamisch ergänzt und erweitert.</p>
+  <article class="mentor">
+    <img
+      class="mentor__image"
+      src="assets/images/school.png"
+      alt="Jakob schaut in der Kamera"
+    />
+    <div>
+      <h2>Jakob Surbeck</h2>
+      <blockquote>
+        Freilernen ist für mich die intensive Auseinandersetzung mit einer
+        selbstgewählten Aufgabe: ich habe ein Ziel vor Augen, das ich erreichen
+        möchte. Ich schaue, was es dazu braucht, eigne mir das nötige Wissen aus
+        verschiedensten Quellen an, organisiere das Material und begebe mich auf
+        den Weg, das Projekt zu realisieren, immer mit der Offenheit vielleicht
+        daran zu scheitern. Das Wichtigste dabei ist, dass es mit Begeisterung
+        geschieht. Ich stehe den Lernenden zur Seite, dass sie mit Freude und
+        Lust das Wissen in sich aufsaugen können. Gelingt uns dies, stehen uns
+        die richtigen Türen des Lebens offen.
+      </blockquote>
+      <ul>
+        <li>Bewegungsschauspieler</li>
+        <li>Ausbildung an der Scuola Teatro Dimitri</li>
+        <li>Zirkuspädagoge</li>
+        <li>Spitalclown</li>
+        <li>Vater von zwei freilernenden Jugendlichen</li>
+        <li>Begeisterter Handwerker und Bastler</li>
+      </ul>
+    </div>
+  </article>
+  <article class="mentor">
+    <img
+      class="mentor__image"
+      src="assets/images/school.png"
+      alt="Anais schaut in der Kamera"
+    />
+    <div>
+      <h2>Anaïs Guillez</h2>
+      <blockquote>
+        Kinder sind für mich Vorbilder. Sie sind lebendig, kreativ, neugierig
+        und wohlwollend. Wie rasch und spontan ein Kind schreiben, lesen und
+        rechnen lernt, hat mich schon immer fasziniert. Ich schätze die Kinder
+        in ihrer Einzigartigkeit und gehe mit ihnen freudvoll auf
+        Entdeckungsreise. Ich sehe meine Aufgabe hauptsächlich darin, sie in
+        ihrem Sein und Wirken zu unterstützen. Musik, Bewegung, Kunst,
+        Sinneserfahrungen und Erfahrungen in der Gruppe finde ich besonders
+        wichtig, Sie sind in der Unterstufe zentral. Je mehr Lernen mit
+        positiven Emotionen verbunden wird, desto effizienter ist es. Ein
+        singender Start mit den Kindern in den Tag weckt und erwärmt ihre
+        Herzen.
+      </blockquote>
+      <ul>
+        <li>Primarschullehrerin (Kiga-6. Schuljahr) seit 13 Jahren</li>
+        <li>Zweisprachig deutsch/ französisch</li>
+        <li>Mutter von zwei freilernenden Kindern</li>
+        <li>Kinesiologie und Coachingkurse</li>
+        <li>Wöchentlicher Waldmorgen</li>
+        <li>
+          Interessen: Singen, Musik, Gestalten, Reisen, Bewusstseinsarbeit
+        </li>
+      </ul>
+    </div>
+  </article>
+  <p>
+    Das Team von Mentorinnen und Mentoren wird dynamisch ergänzt und erweitert.
+  </p>
 </section>
 
 <section class="container">
   <h2>Organisatorisches</h2>
-  <p>Beginn ab 16. August 2021
-  1 Tag pro Woche CHF 280.- / Monat (Montag)
-  2 Tage pro Woche CHF 500.- / Monat (Montag & Mittwoch) oder je nach finanziellen Möglichkeiten
-  Meldet euch jederzeit für einen Schnuppertermin an!
-  <strong>
-    Infoabend am 12. August 2021 um 19 Uhr in der Arco Schule in Säriswil (wir bitten um frühzeitige Anmeldung per Mail)</strong>
-  Die Probezeit beträgt drei Monate mit einer Kündigungsmöglichkeit beider Parteien von einem Monat, danach gilt die Kündigungsfrist von 3 Monaten. Die Ferien richten sich nach dem Ferienplan des Zyklus 3 der Stadt Bern.
-  10-20 Jugendliche, 1-3 MentorInnen</p>
+  <p>
+    Beginn ab 16. August 2021 1 Tag pro Woche CHF 280.- / Monat (Montag) 2 Tage
+    pro Woche CHF 500.- / Monat (Montag & Mittwoch) oder je nach finanziellen
+    Möglichkeiten Meldet euch jederzeit für einen Schnuppertermin an!
+    <strong>
+      Infoabend am 12. August 2021 um 19 Uhr in der Arco Schule in Säriswil (wir
+      bitten um frühzeitige Anmeldung per Mail)</strong
+    >
+    Die Probezeit beträgt drei Monate mit einer Kündigungsmöglichkeit beider
+    Parteien von einem Monat, danach gilt die Kündigungsfrist von 3 Monaten. Die
+    Ferien richten sich nach dem Ferienplan des Zyklus 3 der Stadt Bern. 10-20
+    Jugendliche, 1-3 MentorInnen
+  </p>
 </section>
