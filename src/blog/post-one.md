@@ -1,5 +1,6 @@
 ---
-title: Post one
+title: Wilkommen zur unsere neue Seite
+author: Severin
 ---
 
 # Welcome

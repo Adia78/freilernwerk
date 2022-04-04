@@ -1,5 +1,6 @@
 ---
-title: Post two
+title: Podcast
+author: Kjartan
 ---
 
 # Welcome to post 2

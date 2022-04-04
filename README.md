@@ -1,5 +1,11 @@
 # freilernwerk
 
+## Install dependencies
+
+```
+npm install
+```
+
 ## Start server
 
 ```
