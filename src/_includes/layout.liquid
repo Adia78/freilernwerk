@@ -1,38 +1,44 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <title>Freilernwerk</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Freilernwerk</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@400;900&display=swap" rel="stylesheet"> 
-</head>
-<body>
-  <div class="content">
-    <header class="container">
-      <a href="/">Freilernwerk</a>
-      <nav class="navigation">
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@400;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="content">
+      <header class="container">
+        <a href="/">Freilernwerk</a>
+        <nav class="navigation">
           <ul>
             <li>
               <a href="/blog">Blog</a>
             </li>
-            <li>
-              <a href="pages/contact.html">Kontakt</a>
-            </li>
           </ul>
         </nav>
-    </header>
-    <main>
-      {% if container == true %}<div class="container">{% endif %}
-        {{ content}}
-      {% if container == true %}</div>{% endif %}
-    </main>
-  </div>
-  <footer>
-    <div class="container"><p>Wir freuen uns auf euch und auf ein neues WIR!</p></div>
-  </footer>
-</body>
+      </header>
+      <main>
+        {% if container == true %}
+        <div class="container">
+          {% endif %}
+          {{ content }}
+          {% if container == true %}
+        </div>
+        {% endif %}
+      </main>
+    </div>
+    <footer>
+      <div class="container">
+        <p>Wir freuen uns auf euch und auf ein neues WIR!</p>
+      </div>
+    </footer>
+  </body>
 </html>
