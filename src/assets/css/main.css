@@ -6,7 +6,6 @@ html {
   --color-gold-200: hsl(35, 58%, 90%);
   --color-white: #fff;
   --color-black: #000;
-
   --mobile: 600px;
 }
 
@@ -136,6 +135,14 @@ footer {
 
 .list {
   list-style: none;
+}
+
+.button {
+  color: #fff;
+  background-color: var(--color-gold);
+  padding: 0.2rem 1.2rem;
+  border-radius: 0.2em;
+  text-decoration: none;
 }
 
 .section--large {

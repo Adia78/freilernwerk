@@ -55,18 +55,20 @@ pagination:
 
 <section class="section section--large section--soft">
   <div class="container container--large">
-    <h2>Angeboten</h2>
+    <h2>Angebote</h2>
     <div class="grid-columns-three">
       {% for a in angebot %}
       <article>
-        <img
-          class="teaser__image"
-          src="assets/images/{{ a.data.cover }}"
-          alt=""
-        />
+        <a href="{{ a.url }}">
+          <img
+            class="teaser__image"
+            src="assets/images/{{ a.data.cover }}"
+            alt=""
+          />
+        </a>
         <h2>{{ a.data.title }}</h2>
         <p>{{ a.data.summary }}</p>
-        <a href="{{ a.url }}">Mehr Details</a>
+        <a class="button" href="{{ a.url }}">Mehr Details</a>
       </article>
       {% endfor %}
     </div>
@@ -144,35 +146,6 @@ pagination:
   <article class="mentor">
     <img
       class="mentor__image"
-      src="assets/images/jakob.png"
-      alt="Jakob schaut in der Kamera"
-    />
-    <div>
-      <h2>Jakob Surbeck</h2>
-      <blockquote>
-        Freilernen ist für mich die intensive Auseinandersetzung mit einer
-        selbstgewählten Aufgabe: ich habe ein Ziel vor Augen, das ich erreichen
-        möchte. Ich schaue, was es dazu braucht, eigne mir das nötige Wissen aus
-        verschiedensten Quellen an, organisiere das Material und begebe mich auf
-        den Weg, das Projekt zu realisieren, immer mit der Offenheit vielleicht
-        daran zu scheitern. Das Wichtigste dabei ist, dass es mit Begeisterung
-        geschieht. Ich stehe den Lernenden zur Seite, dass sie mit Freude und
-        Lust das Wissen in sich aufsaugen können. Gelingt uns dies, stehen uns
-        die richtigen Türen des Lebens offen.
-      </blockquote>
-      <ul>
-        <li>Bewegungsschauspieler</li>
-        <li>Ausbildung an der Scuola Teatro Dimitri</li>
-        <li>Zirkuspädagoge</li>
-        <li>Spitalclown</li>
-        <li>Vater von zwei freilernenden Jugendlichen</li>
-        <li>Begeisterter Handwerker und Bastler</li>
-      </ul>
-    </div>
-  </article>
-  <article class="mentor">
-    <img
-      class="mentor__image"
       src="assets/images/anais.png"
       alt="Anais schaut in der Kamera"
     />
@@ -200,6 +173,35 @@ pagination:
         <li>
           Interessen: Singen, Musik, Gestalten, Reisen, Bewusstseinsarbeit
         </li>
+      </ul>
+    </div>
+  </article>
+  <article class="mentor">
+    <img
+      class="mentor__image"
+      src="assets/images/jakob.png"
+      alt="Jakob schaut in der Kamera"
+    />
+    <div>
+      <h2>Jakob Surbeck</h2>
+      <blockquote>
+        Freilernen ist für mich die intensive Auseinandersetzung mit einer
+        selbstgewählten Aufgabe: ich habe ein Ziel vor Augen, das ich erreichen
+        möchte. Ich schaue, was es dazu braucht, eigne mir das nötige Wissen aus
+        verschiedensten Quellen an, organisiere das Material und begebe mich auf
+        den Weg, das Projekt zu realisieren, immer mit der Offenheit vielleicht
+        daran zu scheitern. Das Wichtigste dabei ist, dass es mit Begeisterung
+        geschieht. Ich stehe den Lernenden zur Seite, dass sie mit Freude und
+        Lust das Wissen in sich aufsaugen können. Gelingt uns dies, stehen uns
+        die richtigen Türen des Lebens offen.
+      </blockquote>
+      <ul>
+        <li>Bewegungsschauspieler</li>
+        <li>Ausbildung an der Scuola Teatro Dimitri</li>
+        <li>Zirkuspädagoge</li>
+        <li>Spitalclown</li>
+        <li>Vater von zwei freilernenden Jugendlichen</li>
+        <li>Begeisterter Handwerker und Bastler</li>
       </ul>
     </div>
   </article>

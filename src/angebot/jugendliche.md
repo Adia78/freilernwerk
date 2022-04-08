@@ -4,7 +4,7 @@ summary: Unser Raum am Montag (und optional am Mittwoch). Mit Adrian und Severin
 cover: angebot-three.jpg
 ---
 
-# Jugendliche (Sekundarstufen I und II)
+## Jugendliche (Sekundarstufen I und II)
 
 ## Wer bist du?
 
@@ -28,19 +28,19 @@ Mit Adrian und Severin
 
 Ab 8.30 Ankommen Check-in Runde.
 
-## Grundlegende Kompetenzen
+### Grundlegende Kompetenzen
 
 Ca. 9.00 - 11.30
 
 Individuelle Arbeit an selbstgewählten Zielen in grundlegenden Kompetenzen
 
-## Gemeinschaft
+### Gemeinschaft
 
 Ca. 11.30 - 14.00
 
 Austausch, Café, Spiel, Sport, Kochen, Essen usw
 
-## Projekte
+### Projekte
 
 Ca. 14.00 - 16.30 oder ganztägig
 

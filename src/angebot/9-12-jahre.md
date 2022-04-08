@@ -4,7 +4,7 @@ summary: Unser Raum am Dienstag. Mit Jakob und Severin
 cover: angebot-two.jpg
 ---
 
-# 9 - 12 Jahre (Zyklus II)
+## 9 - 12 Jahre (Zyklus II)
 
 ## Wer bist du?
 
@@ -17,7 +17,7 @@ Folgende Fragen werden uns begleiten:
 - Individuelle Lernziele in den **grundlegenden Kompetenzen** welche Schwerpunkte setze ich?
 - **Projekte**: Was sind meine Interessen, was möchte ich verwirklichen, vertiefen und entdecken, wo wünsche ich Inputs?
 
-Unser Raum am Dienstag\*\*
+## Unser Raum am Dienstag
 
 Mit Jakob und Severin
 
@@ -41,7 +41,7 @@ Ca. 14.00 - 16.30 oder ganztägig
 
 Raum für Projekte, Exkursionen, in die Welt gehen, Engagement, Wirtschaften usw.
 
-### Organisatorisches
+## Organisatorisches
 
 Wir sind im Oktober 2021 mit viel Begeisterung und einer tollen Gruppe gestartet. Meldet euch jederzeit für einen Schnuppertermin an!
 
