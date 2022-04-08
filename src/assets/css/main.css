@@ -1,6 +1,7 @@
 html {
   --color-yellow: #f9e7ba;
   --color-brown: #281514;
+  --color-purple: #6c6c9b;
   --color-gold: hsl(35, 58%, 53%);
   --color-gold-200: hsl(35, 58%, 90%);
   --color-white: #fff;
@@ -82,6 +83,18 @@ blockquote::before {
   color: var(--color-yellow);
 }
 
+.banner {
+  background-color: #6c6c9b;
+}
+
+.banner__image {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: 250px;
+  object-fit: contain;
+}
+
 section, 
 .section {
   padding: 2rem 0;
@@ -97,8 +110,7 @@ footer {
   padding-bottom: 3rem;
   background-color: var(--color-brown);
   color: var(--color-gold);
-  font-size: 2rem;
-  text-align: center;
+  font-size: 1.2rem;
 }
 
 .container {
