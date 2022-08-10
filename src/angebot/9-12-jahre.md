@@ -1,7 +1,7 @@
 ---
 title: 9 - 12 Jahre (Zyklus II)
 summary: Unser Raum am Dienstag. Mit Jakob und Severin
-cover: angebot-two.jpg
+cover: angebot-two.png
 ---
 
 ## 9 - 12 Jahre (Zyklus II)

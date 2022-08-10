@@ -1,7 +1,7 @@
 ---
 title: 4 - 8 Jahre (Zyklus I)
 summary: Unser Raum am Montag. Mit Anaïs
-cover: angebot-one.jpg
+cover: angebot-one.png
 ---
 
 ## 4 - 8 Jahre (Zyklus I)
