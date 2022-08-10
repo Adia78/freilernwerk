@@ -27,7 +27,9 @@
         {% if container == true %}
         <div class="container">
           {% endif %}
+
           {{ content }}
+
           {% if container == true %}
         </div>
         {% endif %}
@@ -36,29 +38,46 @@
 
     <footer>
       <div class="container">
-        <h2>Kontakt</h2>
-        <p>
-          Interessiert ihr euch für das freilernwerk?<br />
-          Dann meldet euch gerne bei uns:
-        </p>
-        <ul class="list">
-          <li>
-            Adrian Theilkäs:
-            <a href="mailto:atheilkaes@yahoo.com">atheilkaes@yahoo.com</a>
-          </li>
-          <li>
-            Severin Erni:
-            <a href="mailto:severin.erni@bluewin.ch">severin.erni@bluewin.ch</a>
-          </li>
-          <li>
-            Anaïs Guillez:
-            <a href="mailto:anais.guillez@gmail.com">anais.guillez@gmail.com</a>
-          </li>
-          <li>
-            Jakob Surbeck:
-            <a href="mailto:info@jakobsurbeck.ch">info@jakobsurbeck.ch</a>
-          </li>
-        </ul>
+        <div class="grid-columns-three">
+          <section>
+            <h2>Kontakt</h2>
+            <p>
+              Interessiert ihr euch für das freilernwerk?<br />
+              Dann meldet euch gerne bei uns:
+            </p>
+            <ul class="list">
+              <li>
+                Adrian Theilkäs:
+                <a href="mailto:atheilkaes@yahoo.com">atheilkaes@yahoo.com</a>
+              </li>
+              <li>
+                Severin Erni:
+                <a href="mailto:severin.erni@bluewin.ch"
+                  >severin.erni@bluewin.ch</a
+                >
+              </li>
+              <li>
+                Anaïs Guillez:
+                <a href="mailto:anais.guillez@gmail.com"
+                  >anais.guillez@gmail.com</a
+                >
+              </li>
+              <li>
+                Jakob Surbeck:
+                <a href="mailto:info@jakobsurbeck.ch">info@jakobsurbeck.ch</a>
+              </li>
+            </ul>
+          </section>
+          <section>
+            <h2>Bankverbindung</h2>
+            <ul class="list">
+              <li>CH48 0839 2000 1596 5530 7</li>
+              <li>Verien freilernwerk</li>
+              <li>Oberdorf 12</li>
+              <li>3233 Tschugg</li>
+            </ul>
+          </section>
+        </div>
 
         <p>
           <span>__</span><br />
