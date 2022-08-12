@@ -1,10 +1,10 @@
 ---
-title: Beruf- und Finden (Sekundarstufen I und II)
+title: Beruf-ung finden (Sekundarstufen I und II)
 summary: Unser Raum am Dienstag für Jugendliche ab 15 Jahren . Mit Adrian
 cover: angebot-four.png
 ---
 
-# Beruf- und Finden
+# Beruf-ung finden
 
 ## Wer bist du?
 
@@ -52,10 +52,7 @@ Berufswahl konkret: Berufsbilder, eigene Ressourcen, Mails, Telefon, Praktika or
 
 Wir setzen den Fokus auf eigenständiges und vernetztes Denken und erleben Bildung in einem Umfeld, das ohne Dogmen und bevormundende Narrative auskommt. Wir wollen den Jugendlichen in ihrer Persönlichkeitsentwicklung unterstützend und wohlwollend zur Seite stehen. Das Bewahren der Einzigartigkeit und Neugierde, der Lebensfreude und einer gesunden körperlichen, psychischen und emotionalen Entwicklung, auch in der Gruppe, sollen weitere Ziele sein.
 
-## Der Treffpunkt
-
-Wir treffen uns am Dienstag im Ins- Treff, welches zum Schlössli Ins gehört im gleichnamigen Ort. Dort wurden wir im Frühjahr 2022 sehr herzlich willkommen geheissen. Wir haben dort einen eigenen Gruppenraum zur Verfügung, können im Ins- Treff kochen und zusammensitzen und haben zudem Zugang zu den vielen spannenden Orten, wie etwa der Kräuterschule, der Schmiede, der Töpferei oder dem Rosenhofpark.
-
+Wir treffen uns am Dienstag im Ins-Treff, welches zum Schlössli Ins gehört im gleichnamigen Ort. Dort wurden wir im Frühjahr 2022 sehr herzlich willkommen geheissen. Wir haben dort einen eigenen Gruppenraum zur Verfügung, können im Ins- Treff kochen und zusammensitzen und haben zudem Zugang zu den vielen spannenden Orten, wie etwa der Kräuterschule, der Schmiede, der Töpferei oder dem Rosenhofpark.
 
 ## Organisatorisches
 

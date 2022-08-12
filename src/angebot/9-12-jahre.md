@@ -41,6 +41,8 @@ Ca. 14.00 - 16.30 oder ganztägig
 
 Raum für Projekte, Exkursionen, in die Welt gehen, Engagement, Wirtschaften usw.
 
+Das freilernwerk 9-12 Jahre findet in der Region Bern statt. Bis zu den Herbstferien sind wir im Eichholz einquartiert.
+
 ## Organisatorisches
 
 Wir sind im Oktober 2021 mit viel Begeisterung und einer tollen Gruppe gestartet. Meldet euch jederzeit für einen Schnuppertermin an!

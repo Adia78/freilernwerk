@@ -37,6 +37,8 @@ Arbeit oder Spiel,\
 je nach Bedürfnis\
 Schlusskreis
 
+Die Gruppe findet in schönen Räumlichkeiten im Seeland statt.
+
 Meldet euch jederzeit für einen Schnuppertermin an!
 
 Start ab Februar 2022 montags
