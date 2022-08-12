@@ -4,9 +4,7 @@ summary: Unser Raum am Montag. Mit Anaïs
 cover: angebot-one.png
 ---
 
-## 4 - 8 Jahre (Zyklus I)
-
-Mit Anaïs
+## 4 - 8 Jahre (Zyklus I) mit Anaïs
 
 ## Unser Raum am Montag
 

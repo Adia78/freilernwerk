@@ -22,9 +22,9 @@ Folgende Fragen werden uns begleiten:
 - **Projekte**: Was sind meine Interessen, verwirklichen, vertiefen und entdecken, wo wünsche ich Inputs?
 - Einblick in die **Berufswelt** (falls bereits ein Thema): „Was interessiert mich? In welchem Bereich würde ich gerne einen Einblick erhalten?“
 
-## Unser Raum am Montag (und optional am Mittwoch)
+## Unser Raum am Montag (und optional am Mittwoch) mit Adrian und Severin
 
-Mit Adrian und Severin
+Wir treffen uns am Dienstag im Ins-Treff, welches zum Schlössli Ins gehört im gleichnamigen Ort. Dort wurden wir im Frühjahr 2022 sehr herzlich willkommen geheissen. Wir haben dort einen eigenen Gruppenraum zur Verfügung, können im Ins- Treff kochen und zusammensitzen und haben zudem Zugang zu den vielen spannenden Orten, wie etwa der Kräuterschule, der Schmiede, der Töpferei oder dem Rosenhofpark.
 
 Ab 8.30 Ankommen Check-in Runde.
 
@@ -45,8 +45,6 @@ Austausch, Café, Spiel, Sport, Kochen, Essen usw
 Ca. 14.00 - 16.30 oder ganztägig
 
 Raum für Projekte, Exkursionen, in die Welt gehen, Engagement, Wirtschaften usw.
-
-Wir treffen uns am Dienstag im Ins-Treff, welches zum Schlössli Ins gehört im gleichnamigen Ort. Dort wurden wir im Frühjahr 2022 sehr herzlich willkommen geheissen. Wir haben dort einen eigenen Gruppenraum zur Verfügung, können im Ins- Treff kochen und zusammensitzen und haben zudem Zugang zu den vielen spannenden Orten, wie etwa der Kräuterschule, der Schmiede, der Töpferei oder dem Rosenhofpark.
 
 Wir sind am 16. August 2021 mit viel Begeisterung und einer tollen Gruppe gestartet. Meldet euch jederzeit für einen Schnuppertermin an!
 
