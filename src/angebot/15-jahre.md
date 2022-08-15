@@ -1,6 +1,6 @@
 ---
 title: Beruf-ung finden (Sekundarstufen I und II)
-summary: Unser Raum am Dienstag für Jugendliche ab 15 Jahren . Mit Adrian
+summary: Unser Raum am Dienstag im Ins für Jugendliche ab 15 Jahren. Mit Adrian
 cover: angebot-four.png
 ---
 

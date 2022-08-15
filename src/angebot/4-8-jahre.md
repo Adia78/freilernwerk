@@ -1,6 +1,6 @@
 ---
 title: 4 - 8 Jahre (Zyklus I)
-summary: Unser Raum am Montag. Mit Anaïs
+summary: Unser Raum am Montag im Seeland. Mit Anaïs
 cover: angebot-one.png
 ---
 
@@ -8,7 +8,7 @@ cover: angebot-one.png
 
 ## Unser Raum am Montag
 
-Das Angebot startet voraussichtlich im Sommer.
+Das Angebot startet im August 2022 in schönen Räumlichkeiten im Seeland.
 
 8.30-9.00 Ankommen  
 Morgenkreis
@@ -35,11 +35,7 @@ Arbeit oder Spiel,\
 je nach Bedürfnis\
 Schlusskreis
 
-Die Gruppe findet in schönen Räumlichkeiten im Seeland statt.
-
 Meldet euch jederzeit für einen Schnuppertermin an!
-
-Start ab Februar 2022 montags
 
 Die Probezeit beträgt drei Monate mit einer Kündigungsmöglichkeit beider Parteien von einem Monat, danach gilt die Kündigungsfrist von 3 Monaten. Die Ferien richten sich nach dem Ferienplan der Stadt Bern.
 

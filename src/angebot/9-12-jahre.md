@@ -1,6 +1,6 @@
 ---
 title: 9 - 12 Jahre (Zyklus II)
-summary: Unser Raum am Dienstag. Mit Jakob und Severin
+summary: Unser Raum am Dienstag im Region Bern. Mit Jakob und Severin
 cover: angebot-two.png
 ---
 
@@ -18,6 +18,8 @@ Folgende Fragen werden uns begleiten:
 - **Projekte**: Was sind meine Interessen, was möchte ich verwirklichen, vertiefen und entdecken, wo wünsche ich Inputs?
 
 ## Unser Raum am Dienstag
+
+Das freilernwerk 9-12 Jahre findet in der Region Bern statt. Bis zu den Herbstferien sind wir im Eichholz einquartiert.
 
 Mit Jakob und Severin
 
@@ -40,8 +42,6 @@ Austausch, Spiel, Sport, Kochen, Essen usw.
 Ca. 14.00 - 16.30 oder ganztägig
 
 Raum für Projekte, Exkursionen, in die Welt gehen, Engagement, Wirtschaften usw.
-
-Das freilernwerk 9-12 Jahre findet in der Region Bern statt. Bis zu den Herbstferien sind wir im Eichholz einquartiert.
 
 ## Organisatorisches
 

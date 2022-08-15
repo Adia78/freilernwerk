@@ -1,6 +1,6 @@
 ---
 title: Jugendliche (Sekundarstufen I und II)
-summary: Unser Raum am Montag (und optional am Mittwoch). Mit Adrian und Severin
+summary: Unser Raum am Montag (und optional am Mittwoch) im Ins. Mit Adrian und Severin
 cover: angebot-three.png
 ---
 
