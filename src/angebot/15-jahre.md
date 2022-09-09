@@ -8,18 +8,13 @@ cover: angebot-four.png
 
 ## Wer bist du?
 
-du bist mindestens 15 Jahre alt
-
-du hast dich entschieden, keine herkömmliche Lehre oder Gymer anzutreten
-
-du möchtest selbstbestimmt und eigenverantwortlich deine Ausbildung gestalten
-
-du möchtest herausfinden, wo deine echten Interessen, Begabungen und verbrogenen Talente liegen, um daraus deine Ausbildung zu kreieren
-
-du möchtest nicht nur eine Ausbildung machen um Geld zu verdienen, sondern deinem Herzen folgen und deine Beruf-ung finden\
-
-du suchst auf diesem mutigen und herausfordernden Weg menschliche und wohlwollende Unterstützung
-
+- du bist mindestens 15 Jahre alt
+- du willst ohne Druck, Stress und Konkurrenzdenken deine berufliche Zukunft in Angriff nehmen
+- du hast dich entschieden, keine herkömmliche Lehre oder Gymer anzutreten oder möchtest dir dafür noch etwas Zeit nehmen
+- du möchtest selbstbestimmt und eigenverantwortlich deine Ausbildung gestalten
+- du möchtest herausfinden, wo deine echten Interessen, Begabungen und verbrogenen Talente liegen
+- du möchtest nicht nur eine Ausbildung machen um Geld zu verdienen, sondern deinem Herzen folgen und deine Beruf-ung finden
+- du suchst auf diesem mutigen und herausfordernden Weg menschliche und wohlwollende Unterstützung
 
 ## Freilernwerk
 
@@ -28,7 +23,7 @@ Das Angebot "3. Bildungsweg- Beruf-ung finden" ist ein Teil des freilernwerks. E
 
 ## Unser Raum am Dienstag mit Adrian
 
-Wir treffen uns am Dienstag im Ins-Treff, welches zum Schlössli Ins gehört im gleichnamigen Ort. Dort wurden wir im Frühjahr 2022 sehr herzlich willkommen geheissen. Wir haben dort einen eigenen Gruppenraum zur Verfügung, können im Ins- Treff kochen und zusammensitzen und haben zudem Zugang zu den vielen spannenden Orten, wie etwa der Kräuterschule, der Schmiede, der Töpferei oder dem Rosenhofpark.
+Wir treffen uns am Dienstag im Ins-Treff, welches zum Schlössli Ins gehört im gleichnamigen Ort. Wir verfügen dort über einen eigenen, gemütlichen Gruppenraum, können im Ins-Treff zusammen kochen, spielen, uns austauschen und haben zudem Zugang zu den vielen spannenden Orten, wie etwa der Kräuterschule, der Schmiede, der Töpferei, dem Rosenhofpark und dem kleinen Sportplatz.
 
 Ab 8.30 Ankommen Check-in Runde.
 
